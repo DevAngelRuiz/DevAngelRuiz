@@ -1,17 +1,17 @@
-## 💜 Olá, Eu sou a Angélica Ruiz!
+## 💜 Hey, I'm Angélica Ruiz!
 
 
-- 👧 Sou Desenvolvedora Front-End!
-- 📚 Estudando Analise e Desenvolvimento de Sistemas na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 👾 Aprendendo novas tecnologias e desenvolvendo projetos pela <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 🎓 Formada em Adm com pós em Marketing e Inteligência de Mercado.
-- 🤔 Procuro desenvolver minhas skills, aprender e compartilhar conhecimento. 
+- 👧 I’m Front-End Developer!
+- 📚 Studyng Systems Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 👾 Learning new technologies and developing project from <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
+- 🎓 Graduated in Business Administration and have Postgraduate degree in Marketing and Market Intelligence.
+- 🤔 I seek to develop my skills, learn and share knowledge.
 
 <br>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-<i>Linguagens e Ferramentas</i>
+<i>Languages and Tools</i>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
   <a href="https://www.linkedin.com/in/angelicaaruiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:angelica.a.ruiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
