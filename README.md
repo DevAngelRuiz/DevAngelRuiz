@@ -1,10 +1,10 @@
 ## 💜 Hey, I'm Angélica Ruiz!
 
 
-- 👧 I’m Front-End Developer!
+- 👧 I’m a Front-End Developer!
 - 📚 Studyng Systems Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 👾 Learning new technologies and developing project from <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 🎓 Graduated in Business Administration and have Postgraduate degree in Marketing and Market Intelligence.
+- 🎓 Graduated in Business Administration and Postgraduate degree in Marketing and Market Intelligence.
 - 🤔 I seek to develop my skills, learn and share knowledge.
 
 <br>
