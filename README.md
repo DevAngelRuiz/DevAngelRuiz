@@ -1,10 +1,10 @@
 ## 💜 Hey, I'm Angélica Ruiz!
 
 
-- 👧 I’m a Front-End Developer at <a href="https://br.leveluplatam.com/">Level Up Latam</a>!
-- 📚 Studyng Systems Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 👧 I’m a Software Developer at <a href="https://br.leveluplatam.com/">Level Up Latam</a>!
+- 💻 Graduated in Systems Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 👾 Learning new technologies and developing project from <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 🎓 Graduated in Business Administration and Postgraduate degree in Marketing and Market Intelligence.
+- 🎓 Another Graduation: Business Administration and Postgraduate degree in Marketing and Market Intelligence.
 - 🤔 I seek to develop my skills, learn and share knowledge.
 
 <br>
