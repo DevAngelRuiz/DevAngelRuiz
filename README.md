@@ -1,11 +1,7 @@
 ## 💜 Hey, I'm Angélica Ruiz!
 
 
-- 👧 I’m a Software Developer at <a href="https://br.leveluplatam.com/">Level Up Latam</a>!
-- 💻 Graduated in Systems Analysis and Development at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 👾 Learning new technologies and developing project from <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- 🎓 Another Graduation: Business Administration and Postgraduate degree in Marketing and Market Intelligence.
-- 🤔 I seek to develop my skills, learn and share knowledge.
+- 👧 I’m a Software Developer at <a href="https://www.ambevtech.com.br/">AmbevTech</a> 🍻!
 
 <br>
 
