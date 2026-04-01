@@ -1,7 +1,7 @@
 ## 💜 Hey, I'm Angélica Ruiz!
 
 
-- 👧 I’m a Software Developer at <a href="https://www.ambevtech.com.br/">AmbevTech</a> 🍻!
+👧 I’m a Software Developer at <a href="https://www.ambevtech.com.br/">AmbevTech</a> 🍻!
 
 <br>
 
